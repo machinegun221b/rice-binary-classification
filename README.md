@@ -72,6 +72,7 @@ You can also find datasets for multiclass classification (of 5 rice species, gra
 - Major Axis Length
 - Area
 - Eccentricity
+
 seem to be the most informative in differentiating the 2 classes.  <br>
 There's a distinct class boundary in the plane of these 3 features.
 
