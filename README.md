@@ -79,7 +79,7 @@ There's a distinct class boundary in the plane of these 3 features.
 
 - Logistic Regression
   - Sigmoid Function
-w/ keras
+<br>w/ keras
 
 ## Model Performance
 
