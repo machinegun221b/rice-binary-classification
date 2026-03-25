@@ -19,8 +19,6 @@ you can have fun moving things around on colab by following the link but make su
    1. Individually &
    2. Comparing AUC & ROC of both models
 
-Training & Calculating metrics for Binary Classifier at different thresholds.
-
 ## Dataset
 
 The Cinar & Koklu 2019 Osmancik and Cammeo Rice Dataset.
@@ -40,8 +38,6 @@ Contains:
 - Minor Axis Length
 - Extent
 - Eccentricity
-
-You can also find datasets for multiclass classification (of 5 rice species, grape leaves, raisins, pistachios, etc.) by Cinar and Koklu.
 
 ### Exploring the Data
 
@@ -71,8 +67,7 @@ You can also find datasets for multiclass classification (of 5 rice species, gra
 
 - Major Axis Length
 - Area
-- Eccentricity
-
+- Eccentricity   <br>
 seem to be the most informative in differentiating the 2 classes.  <br>
 There's a distinct class boundary in the plane of these 3 features.
 
