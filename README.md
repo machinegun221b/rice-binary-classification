@@ -61,8 +61,6 @@ Contains:
 6. Major Axis Length x Area x Eccentricity
 <img width="880" height="445" alt="Screenshot 2026-03-25 at 5 10 48 PM" src="https://github.com/user-attachments/assets/4f9c2d63-a8f8-4fe5-b730-ed3e4688ed30" />
 
-7. Major Axis Length x Area x Eccentricity 
-
 <img width="976" height="446" alt="Screenshot 2026-03-25 at 5 11 52 PM" src="https://github.com/user-attachments/assets/d5d5dd0c-ec95-4487-b30b-0f470a8c1fa2" />
 
 - Major Axis Length
